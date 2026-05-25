@@ -1,6 +1,9 @@
-# Kernel
+## 📈 Kernel — AI Financial Analyst Dashboard  
+**Tech:** Python · Flask · DSPy · OpenAI · yfinance · pandas · ReportLab
 
-Kernel is an AI financial analyst dashboard built with Streamlit, DSPy, OpenAI, yfinance, pandas, and ReportLab.
+Analyzes public stock tickers and portfolios using live market data, financial metrics, and AI-generated insights. Retrieves one-year price history, computes return, volatility, Sharpe proxy, drawdown, moving averages, correlation, valuation ratios, and portfolio concentration. Uses DSPy reasoning chains with OpenAI to generate structured analyst-style summaries, market reads, risk commentary, and educational recommendations. Includes portfolio weight analysis, risk-balanced allocation suggestions, momentum-tilted weights, conversational financial queries, and automated PDF report generation.
+
+**Key skills:**  Financial analytics · Flask deployment · DSPy · LLM reasoning · Portfolio analysis · PDF reporting
 
 **Live App → (https://kernelapp-f8vc3yfuwn6cqeomgipmqm.streamlit.app/)**
 
