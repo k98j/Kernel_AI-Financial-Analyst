@@ -1,6 +1,7 @@
 # Kernel
 
 Kernel is an AI financial analyst dashboard built with Streamlit, DSPy, OpenAI, yfinance, pandas, and ReportLab.
+
 **Live App → (https://kernelapp-f8vc3yfuwn6cqeomgipmqm.streamlit.app/)**
 
 
